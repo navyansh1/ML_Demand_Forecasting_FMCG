@@ -3,12 +3,11 @@
 > A practical approach to demand forecasting for Fast-Moving Consumer Goods using statistical and machine learning techniques
 
 ## Project Overview 📊
-
+ [View Notebook (Fast Web View) 📘](https://nbviewer.org/github/navyansh1/ML_Demand_Forecasting_FMCG/blob/main/Demand_Forecasting_FMCG.ipynb)
 This project demonstrates a structured methodology for demand forecasting in the FMCG industry. Rather than complex black-box models, the focus is on interpretable, actionable insights that drive business decisions.
 
 Also the dataset used here is a higly messy in the date column, so we will fix that as well.
 
-📘 [View Notebook (Fast Web View)](https://nbviewer.org/github/...)
 
 ## Why Demand Forecasting Matters 🎯
 
@@ -150,3 +149,4 @@ This notebook is designed to be reusable for similar FMCG forecasting projects:
 3. **Communicate in business language**: "MAE of 2,500" means nothing to executives. "We'll prevent 15% of stockouts, saving $150K monthly" does.
 4. **Different products, different strategies**: One-size-fits-all doesn't work. Segment intelligently and apply appropriate methods.
 5. **Start simple, add complexity**: Begin with moving averages to set a baseline. Add complexity only if it meaningfully improves results.
+
